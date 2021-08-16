@@ -1,6 +1,6 @@
 # CustomBlog
 <br>
-<div style="font-size: 30px;"><b> [ Explanation ] </b></div>
+<div style="font-size: 30px;"><b> [ Theme ] </b></div>
 <div>A customized blog</div>
 <br>
 <br>

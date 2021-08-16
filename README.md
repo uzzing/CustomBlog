@@ -1,16 +1,23 @@
 # CustomBlog
-
-<div style="font-size: 30px;"><b> [ Explanation ] </b></div>
-<div>a blog that is customized</div>
 <br>
+<div style="font-size: 30px;"><b> [ Explanation ] </b></div>
+<div>A customized blog</div>
+<br>
+<br>
+<div style="font-size: 30px;"><b> [ Main Service ] </b></div>
+<ul style="font-size: 25px;">
+  <li>MENU : CRUD (Create/Read/Update/Delete)</li>
+  <li>BOARD : CRUD (**Read : including the search function)</li>
+  <li>LOGIN / LOGOUT</li>
+</ul>
 <br>
 <div style="font-size: 30px;"><b> [ What we used ] </b></div>
-<div>- DB : Oracle</div>
-<div>- FRAMEWORK : Spring</div>
-<div>- LANGUAGE : Java, Javascript</div>
-<div>- LIBRARY: Jquery, Ajax</div>
-
-<br>
+<ul>
+  <li>DB : Oracle</li>
+  <li>FRAMEWORK : Spring, Mybatis</li>
+  <li>LANGUAGE : Java, Javascript</li>
+  <li>LIBRARY: Jquery, Ajax</li>
+ </ul>
 <br>
 <div style="font-size: 30px;"><b> [ EXAMPLE ] </b></div>
 <br>

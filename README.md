@@ -4,7 +4,7 @@
 <div>A customized blog</div>
 <br>
 <br>
-<div style="font-size: 30px;"><b> [ Main Service ] </b></div>
+<div style="font-size: 30px;"><b> [ Service ] </b></div>
 <ul style="font-size: 25px;">
   <li>MENU : CRUD (Create/Read/Update/Delete)</li>
   <li>BOARD : CRUD (**Read : including the search function)</li>
@@ -18,6 +18,10 @@
   <li>LANGUAGE : Java, Javascript</li>
   <li>LIBRARY: Jquery, Ajax</li>
  </ul>
+<br>
+<div style="font-size: 30px;"><b> [ Period ] </b></div>
+<div style="font-size: 25px;">2021.08.07 - 08.14 (1 week)</div>
+<br>
 <br>
 <div style="font-size: 30px;"><b> [ EXAMPLE ] </b></div>
 <br>

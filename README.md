@@ -1,4 +1,4 @@
-# CustomBlog
+# CustomBlog_Web
 <br>
 <div style="font-size: 30px;"><b> [ Theme ] </b></div>
 <div>A customized blog</div>
